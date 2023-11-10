@@ -4,7 +4,7 @@ let numeroSecreto;
 let tamanho;
 let tentativas = 1;
 let cliques = 1;
-var maximo = 50;
+var maximo = 100;
 
 function exibirTextoNaTela(tag, texto){
     let campo = document.querySelector(tag);
